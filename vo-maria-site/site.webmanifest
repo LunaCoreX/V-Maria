@@ -1,0 +1,13 @@
+{
+  "name": "Vó Maria Choperia e Pizzaria",
+  "short_name": "Vó Maria",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#e8862f",
+  "theme_color": "#24100b",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
